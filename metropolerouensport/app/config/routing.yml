@@ -1,7 +1,0 @@
-mrsport:
-    resource: "@MrsportBundle/Resources/config/routing.yml"
-    prefix:   /
-
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation
